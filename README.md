@@ -4,8 +4,7 @@
   </a>
 </div>
 
-# SV3D
-SV3D: Synthetic Visual Defect Detection Dataset
+# SV3D: Synthetic Visual Defect Detection Dataset
 
 ## License
 
