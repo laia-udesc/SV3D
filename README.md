@@ -9,3 +9,8 @@
 ## License
 
 This dataset is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+
+## Acknowledgement
+
+Os autores agradecem o financiamento recebido da **Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina (FAPESC)**, **Edital 70/2025**.
